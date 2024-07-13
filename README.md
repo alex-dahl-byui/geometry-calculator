@@ -19,8 +19,6 @@ To further my learning as a software engineer, I wrote this geometry calculator 
 
 By building this geometry calculator, I achieved a deeper understanding of C# and object-oriented programming while also creating a useful tool.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/yFhPMTdh58U)
 
 # Development Environment
@@ -30,8 +28,6 @@ This app is written in c#, and only uses the standard c# libraries. The dotnet f
 The app can be build using dotnet on the top level of the project using: `dotnet build`. After the build is complete the built code can found in the `/bin/Debug/net8.0`.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [How to set up .Net](https://learn.microsoft.com/en-us/dotnet/core/install/macos)
